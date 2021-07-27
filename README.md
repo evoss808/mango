@@ -14,4 +14,4 @@ Worldwide, there are several hundred cultivars of mango <span data-click-image-z
 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/8f/Mango_Springfels_Asit_fs8.jpg"
        label="three mangoes"
-       author="Asit K. Ghosh"
+       author="Asit K. Ghosh">
